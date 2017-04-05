@@ -1,0 +1,32 @@
+SELECT
+	c.id,
+	c.channel_name,
+	c.channel_type,
+	c.parent_id,
+	c.logo,
+	c.bgimg,
+	c.channel_desc,
+	c.servicenum,
+	c.ordernum,
+	c.contentnum,
+	c.channel_name,
+	uc.user_id,
+	c.is_default_take
+FROM
+	(
+		SELECT
+			*
+		FROM
+			e_channel
+		WHERE
+			parent_id = 0
+	) c
+LEFT JOIN (
+	SELECT
+		*
+	FROM
+		e_user_channel
+	WHERE
+		user_id = 10203
+) uc ON c.id = uc.channel_id;
+

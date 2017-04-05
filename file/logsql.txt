@@ -1,0 +1,2 @@
+UPDATE  EX_GDBS_SB   SET  sblsh =?, sxbm =?, sxmc =?, fsxbm =?, fsxmc =?, sqrlx =?, sqrmc =?, sqrzjlx =?, sqrzjhm =?, lxrxm =?, lxrzjlx =?, lxrsfzjhm =?, lxrsj =?, lxryx =?, 
+sbxmmc =?, sbclqd =?, tjfs =?, sbhzh =?, sbsj =?, sbjtwd =?, xzqhdm =?, ysblsh =?, bz =?, byzd =?, project_code =?  where SBLSH=107109

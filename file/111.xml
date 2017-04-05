@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ApproveDataInfo>
+	<TableName>sp_shenpiguocheng</TableName>
+	<Column>
+		<ColName>CB_MAN_NAME</ColName>
+		<ColValue>胡云辉</ColValue>
+	</Column>
+	<Column>
+		<ColName>CB_MAN</ColName>
+		<ColValue>huyh</ColValue>
+	</Column>
+	<Column>
+		<ColName>ORIGINAL_SEQ</ColName>
+		<ColValue>py841512220200026</ColValue>
+	</Column>
+	<Column>
+		<ColName>CB_IDEA</ColName>
+		<ColValue>同意</ColValue>
+	</Column>
+	<Column>
+		<ColName>SPHJDM</ColName>
+		<ColValue>1</ColValue>
+	</Column>
+	<Column>
+		<ColName>CB_DATE</ColName>
+		<ColValue>2015-12-24 14:57:37</ColValue>
+	</Column>
+</ApproveDataInfo>

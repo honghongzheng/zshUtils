@@ -1,0 +1,8 @@
+   t.control_seq,
+   t.step_name,
+   t.loginfo,
+   t.sysid,
+   t.updatetime,
+   t.status,
+   t.inserttime,
+   t.process_step

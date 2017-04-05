@@ -1,0 +1,1 @@
+from_basic_union_id,member_id,audit_status,audit_desc,create_time,to_basic_union_id

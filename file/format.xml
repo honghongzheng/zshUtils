@@ -1,0 +1,12 @@
+<query xmlns="jabber:iq:auth">
+	<username>15011834279</username>
+	<digest>3786d285104ed09ebe944125b1eaccf04c30b3be</digest>
+	<resource>Qixin</resource>
+</query>+==
+<iq id="n9vLi-61" type="set" from="192.168.10.178/b71cff87">
+	<query xmlns="jabber:iq:auth">
+		<username>15011834279</username>
+		<digest>3786d285104ed09ebe944125b1eaccf04c30b3be</digest>
+		<resource>Qixin</resource>
+	</query>
+</iq>
